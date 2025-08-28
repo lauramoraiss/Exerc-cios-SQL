@@ -94,3 +94,16 @@ WHERE
 	value < 2;
 
 <img width="1082" height="647" alt="Image" src="https://github.com/user-attachments/assets/f6242655-94f6-4715-a7be-ba71cef8b793" />
+
+°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡
+
+### **⟩<^,«⋗ *ATIVIDADES NÍVEL 3***
+
+### -Atividade 2610 → Nível 3
+
+SELECT
+	ROUND(AVG(price), 2) as price
+FROM
+	products;
+
+ 
