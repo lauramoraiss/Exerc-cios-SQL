@@ -99,11 +99,31 @@ WHERE
 
 ### **⟩<^,«⋗ *ATIVIDADES NÍVEL 3***
 
-### -Atividade 2610 → Nível 3
+### - Atividade 2610 → Nível 3
 
 SELECT
 	ROUND(AVG(price), 2) as price
 FROM
 	products;
+
+ <img width="1087" height="503" alt="Image" src="https://github.com/user-attachments/assets/bd156b51-b3ae-408b-a297-436e9c9a3ca1" />
+
+
+### - Atividade 2618 → Nível 3
+
+SELECT
+	products.name AS name,
+	providers.name AS name,
+	categories.name AS name
+FROM
+	products
+INNER JOIN
+    providers ON products.id_providers = providers.id
+    
+INNER JOIN
+    categories ON products.id_categories = categories.id
+WHERE
+    providers.name = 'Sansul SA'
+    AND categories.name = 'Imported';
 
  
