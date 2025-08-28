@@ -4,7 +4,7 @@
 
 ### **⟩<^,«⋗ *ATIVIDADES NÍVEL 1***
 
-- Atividade 2603 → Nível 1
+###- Atividade 2603 → Nível 1
   
   SELECT
 	name,
@@ -17,7 +17,7 @@ WHERE
 <img width="1077" height="586" alt="Image" src="https://github.com/user-attachments/assets/8780101e-c81f-4ff6-82d3-ebfddca60907" />
 
 
-- Atividade 2607 → Nível 1
+###- Atividade 2607 → Nível 1
 
   SELECT
 	city
@@ -29,7 +29,7 @@ ORDER BY
 <img width="1085" height="530" alt="Image" src="https://github.com/user-attachments/assets/1d740b8e-ea5d-4778-8ee3-3c6818dbf87b" />
 
 
-- Atividade 2608 → Nível 1
+###- Atividade 2608 → Nível 1
 
   SELECT
 	max(price)
@@ -40,7 +40,7 @@ FROM
 <img width="1079" height="509" alt="Image" src="https://github.com/user-attachments/assets/ec4781eb-f43b-4a01-bfef-40c73d1c8bdf" />
 
 
-- Atividade 2615 → Nível 1
+###- Atividade 2615 → Nível 1
 
   SELECT
 	city
@@ -50,7 +50,7 @@ FROM
 <img width="1084" height="509" alt="Image" src="https://github.com/user-attachments/assets/9439c9c5-5b58-4a09-afa6-396ee6011610" />
 
 
-- Atividade 2617 → Nível 1
+###- Atividade 2617 → Nível 1
 
   SELECT
 	products.name,
@@ -68,7 +68,7 @@ WHERE
 
 ### **⟩<^,«⋗ *ATIVIDADES NÍVEL 2***
 
-- Atividade 2604 → Nível 2
+###- Atividade 2604 → Nível 2
 
   SELECT
 	id,
@@ -81,7 +81,7 @@ WHERE
 <img width="1087" height="576" alt="Image" src="https://github.com/user-attachments/assets/33543059-d691-4115-952b-0da4fb34b6ce" />
 
 
-- Atividade 2613 → Nível 2
+###- Atividade 2613 → Nível 2
 
   SELECT
 	movies.id,
