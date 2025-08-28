@@ -62,3 +62,19 @@ INNER JOIN
 WHERE
 	providers.name = 'Ajax SA';
 
+<img width="1077" height="603" alt="Image" src="https://github.com/user-attachments/assets/de6c5acc-bc38-48a3-80e8-f38bb7659198" />
+
+°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡
+
+### **⟩<^,«⋗ *ATIVIDADES NÍVEL 2***
+
+- Atividade 2604 → Nível 2
+
+  SELECT
+	id,
+	name
+FROM
+	products
+WHERE
+	price < 10 OR price > 100;
+
