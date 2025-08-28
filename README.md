@@ -47,3 +47,18 @@ FROM
 FROM
 	customers;
 
+<img width="1084" height="509" alt="Image" src="https://github.com/user-attachments/assets/9439c9c5-5b58-4a09-afa6-396ee6011610" />
+
+
+- Atividade 2617 → Nível 1
+
+  SELECT
+	products.name,
+	providers.name
+FROM
+	providers
+INNER JOIN
+	prducts ON products.id_providers = providers.id
+WHERE
+	providers.name = 'Ajax SA';
+
