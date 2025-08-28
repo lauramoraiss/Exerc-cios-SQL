@@ -141,4 +141,20 @@ FROM
 WHERE
     state LIKE '%RS%';
 
- 
+<img width="1079" height="546" alt="Image" src="https://github.com/user-attachments/assets/faea5084-4ef2-44e2-b652-2cd0f7dfa065" />
+
+°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡
+
+### **⟩<^,«⋗ *ATIVIDADE NÍVEL 5***
+
+### - Atividade 2616 → Nível 5
+
+SELECT
+    customers.id,
+    customers.name
+FROM
+    customers
+LEFT JOIN
+    locations ON customers.id = locations.id_customers
+WHERE
+    locations.id_customers IS NULL
