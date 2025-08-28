@@ -26,3 +26,14 @@ FROM
 ORDER BY
 	city ASC;
 
+<img width="1085" height="530" alt="Image" src="https://github.com/user-attachments/assets/1d740b8e-ea5d-4778-8ee3-3c6818dbf87b" />
+
+
+- Atividade 2608 → Nível 1
+
+  SELECT
+	max(price)
+	min(price)
+FROM
+	products;
+
