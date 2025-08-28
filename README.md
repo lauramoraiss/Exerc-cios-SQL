@@ -93,3 +93,4 @@ INNER JOIN
 WHERE
 	value < 2;
 
+<img width="1082" height="647" alt="Image" src="https://github.com/user-attachments/assets/f6242655-94f6-4715-a7be-ba71cef8b793" />
