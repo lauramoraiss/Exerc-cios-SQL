@@ -37,3 +37,13 @@ ORDER BY
 FROM
 	products;
 
+<img width="1079" height="509" alt="Image" src="https://github.com/user-attachments/assets/ec4781eb-f43b-4a01-bfef-40c73d1c8bdf" />
+
+
+- Atividade 2615 → Nível 1
+
+  SELECT
+	city
+FROM
+	customers;
+
