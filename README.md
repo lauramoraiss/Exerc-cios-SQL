@@ -78,3 +78,18 @@ FROM
 WHERE
 	price < 10 OR price > 100;
 
+<img width="1087" height="576" alt="Image" src="https://github.com/user-attachments/assets/33543059-d691-4115-952b-0da4fb34b6ce" />
+
+
+- Atividade 2613 → Nível 2
+
+  SELECT
+	movies.id,
+	movies.name
+FROM
+	movies
+INNER JOIN
+	prices ON movies.id_prices = prices.id
+WHERE
+	value < 2;
+
