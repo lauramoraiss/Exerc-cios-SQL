@@ -126,4 +126,19 @@ WHERE
     providers.name = 'Sansul SA'
     AND categories.name = 'Imported';
 
+<img width="1082" height="741" alt="Image" src="https://github.com/user-attachments/assets/ee76b457-4541-4b78-a322-b9e100804832" />
+
+°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡
+
+### **⟩<^,«⋗ *ATIVIDADE NÍVEL 4***
+
+### - Atividade 2602 → Nível 4
+
+SELECT
+    name
+FROM
+    customers
+WHERE
+    state LIKE '%RS%';
+
  
