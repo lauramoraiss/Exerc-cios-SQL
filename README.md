@@ -168,3 +168,9 @@ ORDER BY
 <img width="1083" height="626" alt="Image" src="https://github.com/user-attachments/assets/3b13fa72-f243-4db9-a880-3536a3c9ca1f" />
 
 °‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡
+
+
+SELECT
+	ROUND(AVG(price), 2) as price
+FROM
+	products;
